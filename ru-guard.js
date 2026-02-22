@@ -49,7 +49,7 @@
     blurAmount: '20px',
 
     /** Alert message for .ru-censor-alert */
-    alertText: 'Материал заблокирован на территории РФ',
+    alertText: 'Материал недоступен на территории РФ',
 
     /** Warning message for .ru-only-alert shown to non-Russian visitors */
     nonRuAlertText: 'Этот материал предназначен только для аудитории из России',
